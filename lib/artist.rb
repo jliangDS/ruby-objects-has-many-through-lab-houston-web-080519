@@ -20,4 +20,8 @@ class Artist
   def new_song 
   
   end 
+  
+  def genres 
+    
+  end
 end 
