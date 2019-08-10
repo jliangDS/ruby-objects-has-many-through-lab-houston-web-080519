@@ -2,6 +2,10 @@ class Genre
 
   attr_accessor :name 
   
+  @@all = []
+  
+  def intialize 
+  end 
   
   def songs 
   end 
