@@ -10,9 +10,11 @@ class Genre
   end 
   
   def songs 
+    
   end 
   
   def artists 
+    
   end 
   
   def self.all 
