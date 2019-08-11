@@ -5,4 +5,6 @@ def Doctor
   def initialize(name)
     @name = name
   end
+  
+  def cla
 end
