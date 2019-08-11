@@ -23,6 +23,6 @@ class Doctor
   
   def patients 
     list = self.appointments 
-    collect {|appointment| appointment.patient}
+    list.collect {|appointment| appointment.patient}
   end
 end
