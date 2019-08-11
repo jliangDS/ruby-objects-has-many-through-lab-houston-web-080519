@@ -1,4 +1,4 @@
-def Doctor 
+class Doctor 
 
   @@all = []
   
