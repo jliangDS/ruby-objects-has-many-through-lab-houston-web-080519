@@ -11,7 +11,7 @@ def Doctor
     @@all 
   end
   
-  def new_appointment 
-  
+  def new_appointment(patient, dates)
+    
   end
 end
