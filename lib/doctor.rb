@@ -12,4 +12,6 @@ def Doctor
   end
   
   def new_appointment 
+    
+  end
 end
