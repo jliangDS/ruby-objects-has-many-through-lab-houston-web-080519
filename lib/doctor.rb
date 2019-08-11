@@ -6,5 +6,6 @@ def Doctor
     @name = name
   end
   
-  def 
+  def self.all
+  end
 end
