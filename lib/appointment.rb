@@ -9,4 +9,5 @@ class Appointment
     @patient = patient 
     @doctor = doctor 
   end
+  
 end 
