@@ -6,5 +6,5 @@ def Doctor
     @name = name
   end
   
-  def cla
+  def 
 end
