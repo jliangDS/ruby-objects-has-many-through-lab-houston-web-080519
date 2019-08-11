@@ -1,3 +1,3 @@
-def Appointment 
+class Appointment 
 
 end 
