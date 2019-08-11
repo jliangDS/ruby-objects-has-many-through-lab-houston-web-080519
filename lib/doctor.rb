@@ -22,6 +22,7 @@ class Doctor
   end
   
   def patients 
-    self.appointments.collect {|appointment| appointment.patient}
+    list = self.appointments 
+    collect {|appointment| appointment.patient}
   end
 end
