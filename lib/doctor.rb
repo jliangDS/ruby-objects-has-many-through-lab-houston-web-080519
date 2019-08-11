@@ -1,3 +1,4 @@
 def Doctor 
 
+  @@all = []
 end
