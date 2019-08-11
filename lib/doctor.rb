@@ -21,7 +21,4 @@ class Doctor
     appointment = Appointment.new(date, patient, self)
   end
   
-  def patients 
-    self.appointments 
-  end
 end
