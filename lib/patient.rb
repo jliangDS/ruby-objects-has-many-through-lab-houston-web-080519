@@ -1,4 +1,4 @@
-def Patient 
+class Patient 
   
 
 end 
