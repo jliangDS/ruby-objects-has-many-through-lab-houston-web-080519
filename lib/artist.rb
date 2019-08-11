@@ -28,6 +28,6 @@ class Artist
   
   def genres
     artist_genres = self.songs
-    artist_genres.collect {|name| name.genre}
+    artist_genres.collect {|song| song.genre}
   end 
 end 
