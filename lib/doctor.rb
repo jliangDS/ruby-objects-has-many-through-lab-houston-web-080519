@@ -17,4 +17,7 @@ def Doctor
   
   def appointments 
   end
+  
+  def patients 
+end
 end
