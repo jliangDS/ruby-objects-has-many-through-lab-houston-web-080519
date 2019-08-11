@@ -14,6 +14,7 @@ class Doctor
   end
   
   def appointments 
+    Appointment 
   end
   
   def new_appointments
