@@ -3,6 +3,7 @@ class Patient
   @@all = []
   
   def initialize(name)
-end
+    @name = name
+  end
 
 end 
