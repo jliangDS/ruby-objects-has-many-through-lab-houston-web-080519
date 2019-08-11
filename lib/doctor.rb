@@ -19,5 +19,5 @@ def Doctor
   end
   
   def patients 
-end
+  end
 end
