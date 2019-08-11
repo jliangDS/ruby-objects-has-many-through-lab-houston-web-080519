@@ -14,7 +14,7 @@ class Doctor
   end
   
   def appointments 
-    Appointment.all
+    Appointment.all.select {|appointment| appointment.
   end
   
   def new_appointments
